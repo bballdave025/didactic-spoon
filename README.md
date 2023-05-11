@@ -20,19 +20,18 @@ https://github.com/learncsds/Keras-ML-DL-DeepLizard
 
 > Machine Learning / Deep Learning / Keras - Jupyter Notebooks <br/>
 > This repository contains the Jupyter notebooks and other resources used in the following deeplizard YouTube playlists:
-
-> Keras Machine Learning / Deep Learning Tutorial
+> </br>
+> Keras Machine Learning / Deep Learning Tutorial <br/>
 > Machine Learning & Deep Learning Fundamentals
 
-### Deep Learning Fundamentals - Intro to Neural Networks
+#### Deep Learning Fundamentals - Intro to Neural Networks
 
 https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
 
 @TODO Put up the Windows Notebook. Later, put in a UNIX Notebook. Probably use MyBinder, too.
 
-### TensorFlow - Python Deep Learning Neural Network API
+#### TensorFlow - Python Deep Learning Neural Network API
 
 @TODO Put up the Windows Notebook. Later, put in a UNIX Notebook. Probably use MyBinder, too.
 
 https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
-
